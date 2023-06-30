@@ -1,0 +1,10 @@
+conectamos las raspberry utilizamos estos comandos
+
+sudo apt update  #actualizar los paquetes en las raspberry Pi 
+sudo apt upgrade # descargar y actualizar los paquetes a la nueva versión 
+sudo su  # nos permiten a los usuarios ejecutar los programas con lo privilegios de seguridad de otro usuario
+
+copiar el link de para el servidor Casa_OS
+curl -fsSL https://get.casaos.io | sudo bash  
+
+
